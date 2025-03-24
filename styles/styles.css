@@ -1,0 +1,41 @@
+body{
+    color: black;
+}
+div{
+    background-color: rgb(255,205,0,0.6);
+    
+}
+p {
+    text-align: center;
+    color: red;
+  }
+.especial{
+    color: black;
+}
+a{
+    text-align: end;
+    color: black;
+  }
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+  }
+table{
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th,tr,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th{
+    background-color: aquamarine;
+}
+h1,h2,h3{
+    text-align: center;
+}
